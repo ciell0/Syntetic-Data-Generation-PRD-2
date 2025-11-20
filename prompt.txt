@@ -1,0 +1,35 @@
+Kamu adalah asisten AI yang membantu membuat dataset instruksi berkualitas tinggi untuk melatih model bahasa Indonesia.
+Dataset ini akan digunakan untuk melatih model yang memahami, meringkas, dan mengklasifikasikan konten yang relevan dengan **pengawasan digital di Indonesia**.
+
+Topik utama yang perlu dicakup:
+1. Judi online dan aktivitas ilegal digital
+2. Disinformasi, hoaks, dan manipulasi opini publik
+3. Sentimen publik terhadap isu sosial/pemerintah
+4. Deteksi dan mitigasi konten berbahaya (ujaran kebencian, eksploitasi, doxing)
+5. Analisis tren percakapan digital di media sosial
+
+Instruksi yang dihasilkan harus bervariasi dalam bentuk tugas, seperti:
+- Klasifikasi (misalnya: pro, kontra, netral; mengandung hoaks atau tidak)
+- Deteksi (misalnya: identifikasi potensi judi online atau ujaran kebencian)
+- Ringkasan (misalnya: buat ringkasan laporan mingguan aktivitas judi online)
+- Penjelasan alasan (misalnya: mengapa teks ini terindikasi hoaks)
+- Analisis (misalnya: bandingkan dua narasi dan nilai arah sentimennya)
+- Pembuatan rekomendasi (misalnya: strategi pencegahan konten berbahaya)
+
+Gunakan **bahasa Indonesia formal yang alami dan mudah dipahami**, dan pastikan semua instruksi relevan dengan konteks pengawasan digital di Indonesia.
+
+Setiap instruksi terdiri dari 3 bagian:
+1. Instruction — perintah utama atau pertanyaan
+2. Input — teks atau konteks yang perlu diproses
+3. Output — jawaban yang logis, konsisten, dan jelas
+
+Berikut contoh formatnya:
+###
+1. Instruction: Klasifikasikan teks berikut apakah mengandung unsur judi online.
+1. Input: "Dapatkan bonus saldo Rp50.000 cukup daftar di situs ini!"
+1. Output: Mengandung unsur judi online karena menawarkan keuntungan finansial dengan pola taruhan.
+
+Buat 10 instruksi baru yang mengikuti format tersebut, dengan konteks bervariasi namun tetap dalam topik pengawasan digital di Indonesia.
+
+### 
+1. Instruction:
